@@ -1,0 +1,239 @@
+[
+    {
+        "speaker_id": "008",
+        "speaker_gender": "мужской",
+        "phrases": [
+            {
+                "phrase_id": "0385",
+                "sentence": "обществas on sada kuuzkymen kolme nenga hengie",
+                "sentence_lat": "<rus>obščestvas</rus> on sada kuuzkymen kolme nenga hengie",
+                "duration": "4.515",
+                "num_kar": 6,
+                "num_rus": 0,
+                "num_rus_kar": 1,
+                "num_total": 7,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0386",
+                "sentence": "вот ну правленii on seiččie hengie",
+                "sentence_lat": "<rus>vot nu pravlenii</rus> on seiččie hengie",
+                "duration": "3.68175",
+                "num_kar": 3,
+                "num_rus": 2,
+                "num_rus_kar": 1,
+                "num_total": 6,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0387",
+                "sentence": "но minä olen председатель правления вот",
+                "sentence_lat": "<rus>no</rus> minä olen <rus>predsedatel' pravlenija vot</rus>",
+                "duration": "2.7609375",
+                "num_kar": 2,
+                "num_rus": 4,
+                "num_rus_kar": 0,
+                "num_total": 6,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0388",
+                "sentence": "midä voimmo",
+                "sentence_lat": "midä voimmo",
+                "duration": "1.5015625",
+                "num_kar": 2,
+                "num_rus": 0,
+                "num_rus_kar": 0,
+                "num_total": 2,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0389",
+                "sentence": "ну konzu mittumatgi мероприятiet проводим день инвалидов kui on",
+                "sentence_lat": "<rus>nu</rus> konzu mittumatgi <rus>meroprijatiet provodim den' invalidov</rus> kui on",
+                "duration": "4.565",
+                "num_kar": 4,
+                "num_rus": 4,
+                "num_rus_kar": 1,
+                "num_total": 9,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0390",
+                "sentence": "sen проводим",
+                "sentence_lat": "sen <rus>provodim</rus>",
+                "duration": "0.8499375",
+                "num_kar": 1,
+                "num_rus": 1,
+                "num_rus_kar": 0,
+                "num_total": 2,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0391",
+                "sentence": "mittumattahto подаркaižet инвалидoile ostammo konzu jengu позволиu sada libo sada viižkymen rubl'ua",
+                "sentence_lat": "mittumattahto <rus>podarkaižet invalidoile</rus> ostammo konzu jengu <rus>pozvoliu</rus> sada libo sada viižkymen rubl'ua",
+                "duration": "8.59675",
+                "num_kar": 9,
+                "num_rus": 0,
+                "num_rus_kar": 3,
+                "num_total": 12,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0392",
+                "sentence": "ну se ostetah",
+                "sentence_lat": "<rus>nu</rus> se ostetah",
+                "duration": "1.481875",
+                "num_kar": 2,
+                "num_rus": 1,
+                "num_rus_kar": 0,
+                "num_total": 3,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0393",
+                "sentence": "sit ollah активистat kudamat kävväh vietäh niilöile инвалидoile kodih",
+                "sentence_lat": "sit ollah <rus>aktivistat</rus> kudamat kävväh vietäh niilöile <rus>invalidoile</rus> kodih",
+                "duration": "6.66075",
+                "num_kar": 7,
+                "num_rus": 0,
+                "num_rus_kar": 2,
+                "num_total": 9,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0394",
+                "sentence": "ну oli moine aigu što ajeliimmo tänne монастыр'ah petroskoile ajeliimmo",
+                "sentence_lat": "<rus>nu</rus> oli moine aigu što ajeliimmo tänne <rus>monastir'ah</rus> petroskoile ajeliimmo",
+                "duration": "7.4259375",
+                "num_kar": 8,
+                "num_rus": 1,
+                "num_rus_kar": 1,
+                "num_total": 10,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0395",
+                "sentence": "вот инвалидoin kere avtobussu oliimmo",
+                "sentence_lat": "<rus>vot invalidoin</rus> kere avtobussu oliimmo",
+                "duration": "2.584625",
+                "num_kar": 3,
+                "num_rus": 1,
+                "num_rus_kar": 1,
+                "num_total": 5,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0396",
+                "sentence": "ну nygöi kačo meile on tädä учредиttu предприятii",
+                "sentence_lat": "<rus>nu</rus> nygöi kačo meile on tädä <rus>učredittu predprijatii</rus>",
+                "duration": "4.220375",
+                "num_kar": 5,
+                "num_rus": 1,
+                "num_rus_kar": 2,
+                "num_total": 8,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0397",
+                "sentence": "ну предприятii nygöižes aijas ylen huonoh ruadau",
+                "sentence_lat": "<rus>nu predprijatii</rus> nygöižes aijas ylen huonoh ruadau",
+                "duration": "4.145625",
+                "num_kar": 5,
+                "num_rus": 1,
+                "num_rus_kar": 1,
+                "num_total": 7,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0398",
+                "sentence": "eulo ruadua muga чтобы jengua suaja",
+                "sentence_lat": "eulo ruadua muga <rus>čtobi</rus> jengua suaja",
+                "duration": "3.2234375",
+                "num_kar": 5,
+                "num_rus": 1,
+                "num_rus_kar": 0,
+                "num_total": 6,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0399",
+                "sentence": "ну вот членские взносы kudamat otammo vuvvekse heis on ylen vähä vai bumuagoi da отчётнoi",
+                "sentence_lat": "<rus>nu vot členskie vznosi</rus> kudamat otammo vuvvekse heis on ylen vähä vai bumuagoi da <rus>otčotnoi</rus>",
+                "duration": "7.1579375",
+                "num_kar": 10,
+                "num_rus": 4,
+                "num_rus_kar": 1,
+                "num_total": 15,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0400",
+                "sentence": "отчётнoi документoi midägi вот ostua da vähäine открыткua ostua чтобы syndymäpäivät roindupäivät net поздравить инвалидoile",
+                "sentence_lat": "<rus>otčotnoi dokumentoi</rus> midägi <rus>vot</rus> ostua da vähäine <rus>otkritkua</rus> ostua <rus>čtobi</rus> syndymäpäivät roindupäivät net <rus>pozdravit' invalidoile</rus>",
+                "duration": "9.9564375",
+                "num_kar": 8,
+                "num_rus": 3,
+                "num_rus_kar": 4,
+                "num_total": 15,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0401",
+                "sentence": "вот muga nygöi vie пока elämmö a ielleh",
+                "sentence_lat": "<rus>vot</rus> muga nygöi vie <rus>poka</rus> elämmö a ielleh",
+                "duration": "3.1859375",
+                "num_kar": 6,
+                "num_rus": 2,
+                "num_rus_kar": 0,
+                "num_total": 8,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0402",
+                "sentence": "valduniekat nimidä ei voija",
+                "sentence_lat": "valduniekat nimidä ei voija",
+                "duration": "1.6749375",
+                "num_kar": 4,
+                "num_rus": 0,
+                "num_rus_kar": 0,
+                "num_total": 4,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0403",
+                "sentence": "midäbo hyö voijah gu kerran heile eulo sežo jen'gua",
+                "sentence_lat": "midäbo hyö voijah gu kerran heile eulo sežo jen'gua",
+                "duration": "2.67625",
+                "num_kar": 9,
+                "num_rus": 0,
+                "num_rus_kar": 0,
+                "num_total": 9,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0404",
+                "sentence": "hyö ollah дотацiel",
+                "sentence_lat": "hyö ollah <rus>dotaciel</rus>",
+                "duration": "0.9360625",
+                "num_kar": 2,
+                "num_rus": 0,
+                "num_rus_kar": 1,
+                "num_total": 3,
+                "quality": "good"
+            },
+            {
+                "phrase_id": "0405",
+                "sentence": "mil hyö voijah avvuttua nimil",
+                "sentence_lat": "mil hyö voijah avvuttua nimil",
+                "duration": "1.35825",
+                "num_kar": 5,
+                "num_rus": 0,
+                "num_rus_kar": 0,
+                "num_total": 5,
+                "quality": "good"
+            }
+        ]
+    }
+]
